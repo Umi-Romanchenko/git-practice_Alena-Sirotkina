@@ -1,5 +1,3 @@
 Some feature text
-HEAD
 Change in main
 Change in conflict-branch
-conflict-branch
