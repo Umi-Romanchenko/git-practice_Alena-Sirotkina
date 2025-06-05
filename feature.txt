@@ -1,1 +1,2 @@
 Some feature text
+Change in conflict-branch
